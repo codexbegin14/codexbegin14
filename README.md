@@ -6,7 +6,7 @@
 
 I build clean full-stack systems, practical developer tools, and competition platforms that turn messy workflows into useful software.
 
-[Portfolio](https://muhammad-awais.vercel.app) · [LinkedIn](https://linkedin.com/in/muhammad-awais) · [Email](mailto:awaisshaikhcs786@gmail.com)
+[Portfolio](https://muhammad-awais-dev.vercel.app) · [LinkedIn](https://linkedin.com/in/muhammad-awais) · [Email](mailto:awaisshaikhcs786@gmail.com)
 
 </div>
 

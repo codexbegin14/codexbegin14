@@ -89,7 +89,7 @@ A recommendation system that suggests stocks and funds based on user preferences
 
 A modern, responsive developer portfolio built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and clean component architecture.
 
-**Live:** [muhammad-awais.vercel.app](https://muhammad-awais.vercel.app)
+**Live:** [muhammad-awais.vercel.app](https://muhammad-awais-DEV.vercel.app)
 
 ---
 

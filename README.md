@@ -121,7 +121,7 @@ A modern, responsive developer portfolio built with Next.js, TypeScript, Tailwin
 
 - Email: [awaisshaikhcs786@gmail.com](mailto:awaisshaikhcs786@gmail.com)
 - LinkedIn: [linkedin.com/in/muhammad-awais](https://linkedin.com/in/muhammad-awais)
-- Portfolio: [muhammad-awais.vercel.app](https://muhammad-awais.vercel.app)
+- Portfolio: [muhammad-awais.vercel.app](https://muhammad-awais-dev.vercel.app)
 - Location: Karachi, Pakistan
 
 ---
